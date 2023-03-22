@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_tictacapp/static/css/main.845ad700.css",
+    "main.js": "/react_tictacapp/static/js/main.25e01d65.js",
+    "index.html": "/react_tictacapp/index.html",
+    "main.845ad700.css.map": "/react_tictacapp/static/css/main.845ad700.css.map",
+    "main.25e01d65.js.map": "/react_tictacapp/static/js/main.25e01d65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845ad700.css",
+    "static/js/main.25e01d65.js"
+  ]
+}
